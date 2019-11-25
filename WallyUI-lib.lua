@@ -34,7 +34,7 @@ do
 	    			leave:disconnect();
 	    		end)
 	    	end)
-	    end
+	    enda
 	end
 	
 	function resizer.new(p, s)
